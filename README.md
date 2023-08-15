@@ -1,5 +1,27 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Sujeong&fontColor=6666CC)
 
+<div align="center">
+👋 Welcome my github!
+</div>
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
+</p>
+
+<h3 align="center"> 🌞 My Github Stats 🌞</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 <!--
 **s2szs2/s2szs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
