@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Sujeong&fontColor=6666CC)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Sujeong&height=200&fontColor=6666CC)
 
 <div align="center">
 👋 Welcome my github!
@@ -33,7 +33,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2szs2&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer"/>
 
 <!--
 **s2szs2/s2szs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
